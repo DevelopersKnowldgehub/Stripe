@@ -21,3 +21,5 @@ Before doing this you have to create the plaid account and connect it with your 
 It can be set up very easily but unfortunately, you have to give live details to connect it with stripe. You can not setup it with stripe using dummy details. If you will not connect it with stripe then on creating payment it will throw an error.
 
 There will be extra charges to use Plaid or another third-party process
+
+<b>Unzip the vendor folder and place on root</b>
