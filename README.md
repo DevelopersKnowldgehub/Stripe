@@ -1,7 +1,9 @@
 # Stripe
 
-<h3>ACH Stripe Payment Using Plaid And Without Plaid (e-check derivative)</h3>
-<b>Check demo here:</b> <a>https://youtu.be/aVJz1OUKcIM</a>
+<h3>ACH Stripe Payment Using Plaid And Without Plaid (e-check derivative)</h3><br>
+
+<b>Check demo here:</b> <a href="https://youtu.be/aVJz1OUKcIM">https://youtu.be/aVJz1OUKcIM</a><br>
+
 Stripe <b>ACH</b> can be done in <b>2 Ways</b>:
 
 1) Using 2 step verification
