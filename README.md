@@ -23,3 +23,4 @@ It can be set up very easily but unfortunately, you have to give live details to
 There will be extra charges to use Plaid or another third-party process
 
 <b>Unzip the vendor folder and place on root</b>
+<b>Check demo here: https://youtu.be/aVJz1OUKcIM</b>
