@@ -1,7 +1,7 @@
 # Stripe
 
 <h3>ACH Stripe Payment Using Plaid And Without Plaid (e-check derivative)</h3>
-
+<b>Check demo here:</b> <a>https://youtu.be/aVJz1OUKcIM</a>
 Stripe <b>ACH</b> can be done in <b>2 Ways</b>:
 
 1) Using 2 step verification
@@ -23,4 +23,3 @@ It can be set up very easily but unfortunately, you have to give live details to
 There will be extra charges to use Plaid or another third-party process
 
 <b>Unzip the vendor folder and place on root</b>
-<b>Check demo here: https://youtu.be/aVJz1OUKcIM</b>
